@@ -1,0 +1,15 @@
+C:\Users\felipesoares\Desktop\Teste de Mesa\Parte03\bin\Debug\net7.0\Parte03.exe
+C:\Users\felipesoares\Desktop\Teste de Mesa\Parte03\bin\Debug\net7.0\Parte03.deps.json
+C:\Users\felipesoares\Desktop\Teste de Mesa\Parte03\bin\Debug\net7.0\Parte03.runtimeconfig.json
+C:\Users\felipesoares\Desktop\Teste de Mesa\Parte03\bin\Debug\net7.0\Parte03.dll
+C:\Users\felipesoares\Desktop\Teste de Mesa\Parte03\bin\Debug\net7.0\Parte03.pdb
+C:\Users\felipesoares\Desktop\Teste de Mesa\Parte03\obj\Debug\net7.0\Parte03.csproj.AssemblyReference.cache
+C:\Users\felipesoares\Desktop\Teste de Mesa\Parte03\obj\Debug\net7.0\Parte03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipesoares\Desktop\Teste de Mesa\Parte03\obj\Debug\net7.0\Parte03.AssemblyInfoInputs.cache
+C:\Users\felipesoares\Desktop\Teste de Mesa\Parte03\obj\Debug\net7.0\Parte03.AssemblyInfo.cs
+C:\Users\felipesoares\Desktop\Teste de Mesa\Parte03\obj\Debug\net7.0\Parte03.csproj.CoreCompileInputs.cache
+C:\Users\felipesoares\Desktop\Teste de Mesa\Parte03\obj\Debug\net7.0\Parte03.dll
+C:\Users\felipesoares\Desktop\Teste de Mesa\Parte03\obj\Debug\net7.0\refint\Parte03.dll
+C:\Users\felipesoares\Desktop\Teste de Mesa\Parte03\obj\Debug\net7.0\Parte03.pdb
+C:\Users\felipesoares\Desktop\Teste de Mesa\Parte03\obj\Debug\net7.0\Parte03.genruntimeconfig.cache
+C:\Users\felipesoares\Desktop\Teste de Mesa\Parte03\obj\Debug\net7.0\ref\Parte03.dll
